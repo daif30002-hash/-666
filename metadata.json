@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الدواجن الذكية",
+  "description": "تطبيق ذكي متكامل برعاية د.ضيف الله الحسني لإدارة مزارع تسمين الدجاج اللاحم في الأنظمة المغلقة، حساب مؤشرات الكفاءة FCR/ADG/PI والتنبؤ بالأداء ومتابعة الأمراض البيطرية وعلاجها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
